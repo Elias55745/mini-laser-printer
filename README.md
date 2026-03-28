@@ -19,6 +19,7 @@ If you prefer to source them yourself, you can shop on platforms like AliExpress
 | Power Supply | 12V/9V 2A | 1 | Interface DC5.5*2.1. Do not exceed 12V (On-board components rated 16V). |
 | Light Shield | Green Translucent Plastic | 1 | Recommend Green Cellophane/PVC (not sticker). Filters red light. |
 | Safety Goggles | Green | 1 | Must wear! Darker is better. Never look directly at the laser. |
+
 Download the circuit files from the repository and choose a cost-effective PCB manufacturer to fabricate the board. Below is the list of required components:
 | Item Name | Specs / Parameters | Qty |
 | :--- | :--- | :---: |
@@ -51,4 +52,4 @@ If you purchase the finished product, no firmware flashing is required. For the 
 
 1.If this is your first time using the device, please open the repository, access the motherboard driver folder, and install the CH341SER driver.
 
-2."After installing the motherboard drivers, please run the host software installer. Once completed, select LaserGRBL to install the control software for this laser printer. Finally, select the COM port connected to your computer from the left panel and click Connect. All configuration is now complete.
+2.After installing the motherboard drivers, please run the host software installer. Once completed, select LaserGRBL to install the control software for this laser printer. Finally, select the COM port connected to your computer from the left panel and click Connect. All configuration is now complete.
