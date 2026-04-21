@@ -96,5 +96,14 @@ Connect the 12V power supply. Connect one probe of the multimeter to the metal s
 Check the voltage and use a small flat-head screwdriver to adjust the left stepper motor driver to 0.28V and the right one to 0.5V.
 ![image](images/13.jpg)
 
+The laser module in the kit requires focusing. You need to adjust it until the laser beam converges to the smallest possible point.
+
 If the sliding is not smooth, fine-tuning of the various structural components may be required.
 
+Connect the power supply to the printer and the USB cable to the computer. Download the LaserGRBL host software from the repository. As shown in the figure, select the printer's COM port, set the baud rate to 115200, and click the green button to connect.
+![image](images/14.png)
+
+Next, click on "Grbl" in the menu bar and select "Grbl Configuration". Import the two files with the .nc extension from the LaserGRBL folder in the GitHub repository. Finally, click "Refresh" and then close the window.
+![image](images/15.png)
+
+Click "File" to select the image you want to print. You can choose the conversion method, and then adjust parameters like printing speed to improve the print quality.
