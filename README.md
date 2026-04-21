@@ -56,45 +56,45 @@ If you purchase the finished product, no firmware flashing is required. For the 
 
 Assembly Instructions: 
 First, install the motor as shown in the figure and tighten the screws.
-![image](images/1.png)
+![image](images/1.jpg)
 
 Take two short shafts and insert them halfway as shown in the figure. Install the laser head into the fixture, insert the short shafts, and finally push the shafts all the way into the bottom.
-![image](images/2.png)
+![image](images/2.jpg)
 
 Assemble the two stepper motors as shown.
-![image](images/3.png)
+![image](images/3.jpg)
 
 Assemble the turbofan as shown.
-![image](images/4.png)
+![image](images/4.jpg)
 
 Take out the mainboard, use pliers to snap off the small board as shown, and then screw it onto the back of the laser slide rail.Warning: Please ensure the stepper motor driver board is oriented as shown in the figure. Incorrect installation may cause damage to the board.
-![image](images/5.png)
+![image](images/5.jpg)
 
 Then, connect the stepper motor flat cable to the small board.
-![image](images/6.png)
+![image](images/6.jpg)
 
 Secure the mainboard to the mounting holes.
-![image](images/7.png)
+![image](images/7.jpg)
 
 Take out the long shaft and insert the laser slide rail into the main body.
-![image](images/8.png)
+![image](images/8.jpg)
 
 Connect the laser power supply and the flat cable.
-![image](images/9.png)
+![image](images/9.jpg)
 
 Finally, install the remaining parts and tighten the screws.
 
 
 Note: For this drawer-style FPC connector, the metal contacts on the flat cable must face upwards when inserted.
-![image](images/11.png)
+![image](images/11.jpg)
 
 For this clamshell FPC connector, the metal contacts on the flat cable must face downwards when inserted.
-![image](images/12.png)
+![image](images/12.jpg)
 
 Debugging:
 Connect the 12V power supply. Connect one probe of the multimeter to the metal shell of the USB port on the Nano board, and connect the other probe to the potentiometer of the stepper motor driver as shown in the figure.
 Check the voltage and use a small flat-head screwdriver to adjust the left stepper motor driver to 0.28V and the right one to 0.5V.
-![image](images/13.png)
+![image](images/13.jpg)
 
 If the sliding is not smooth, fine-tuning of the various structural components may be required.
 
