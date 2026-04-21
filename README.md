@@ -107,3 +107,9 @@ Next, click on "Grbl" in the menu bar and select "Grbl Configuration". Import th
 ![image](images/15.png)
 
 Click "File" to select the image you want to print. You can choose the conversion method, and then adjust parameters like printing speed to improve the print quality.
+
+Increasing the quality setting appropriately can improve the print result; similarly, lowering the printing speed works too.
+![image](images/16.png)
+![image](images/17.png)
+
+For printing, it is recommended to choose dark-colored objects. This ensures that the energy is absorbed rather than reflected.
